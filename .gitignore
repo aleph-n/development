@@ -1,0 +1,7 @@
+.terraform
+*.tfstate
+*.backup
+hosts
+*.retry
+*.tfplan
+.env-*
